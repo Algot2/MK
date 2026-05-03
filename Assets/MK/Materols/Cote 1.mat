@@ -42,6 +42,7 @@ Material:
     - _Ofset: 0.09
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _Scaler: 10
     - _Stretsh: 3.74
     m_Colors: []
   m_BuildTextureStacks: []
